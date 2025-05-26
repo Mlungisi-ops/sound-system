@@ -1,0 +1,97 @@
+h1 {
+    color:#ecf0f1;
+    font-family: times new roman;
+    text-align: center;
+    font-size: 70px;
+}
+
+h2 {
+    color: #ecf0f1;
+    text-align: center;
+}
+
+h3 {
+    color: #ecf0f1;
+    text-align: left;
+}
+
+li {
+      color: #ecf0f1;
+}
+
+h4 {
+    color: #ecf0f1;
+    text-align: center;
+}
+
+h5 {
+    color: #ecf0f1;
+    text-align: center;
+}
+
+body {
+  background-image: url("images/SL.123119.26540.04.jpg");
+  background-size: cover;
+  background-position: center;  
+  background-repeat: no-repeat;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+    justify-content: center;
+  border-radius: 80%;
+  object-fit: cover;
+}
+
+.form-container {
+  background-color: #1a1a1a;
+  padding: 30px;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 400px;
+  box-shadow: 0 0 15px rgba(0, 204, 255, 0.2);
+}
+
+h2 {
+  text-align: center;
+  color: #00ccff;
+  margin-bottom: 20px;
+}
+
+form label {
+  display: block;
+  margin-top: 15px;
+  color: #cccccc;
+}
+
+form input,
+form select,
+form textarea {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  margin-top: 5px;
+  background-color: #2b2b2b;
+  color: #ffffff;
+}
+
+form button {
+  width: 100%;
+  padding: 12px;
+  margin-top: 20px;
+  background-color: #00ccff;
+  color: #000000;
+  border: none;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+form button:hover {
+  background-color: #00aacc;
+}
+
+margin: 0 auto;
